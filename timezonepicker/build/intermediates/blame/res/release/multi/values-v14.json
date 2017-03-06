@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1002
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1002
+                    }
+                }
+            }
+        ]
+    }
+]

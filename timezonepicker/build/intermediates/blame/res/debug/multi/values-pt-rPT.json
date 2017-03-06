@@ -1,0 +1,248 @@
+[
+    {
+        "outputFile": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 17,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\arrays.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2519,
+                        "endLine": 49,
+                        "endColumn": 17,
+                        "endOffset": 2826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endLine": 32,
+                    "endColumn": 17,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\arrays.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 807,
+                        "endLine": 43,
+                        "endColumn": 17,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 103,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 103,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 107,
+                    "endOffset": 2288
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 107,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2293,
+                    "endColumn": 90,
+                    "endOffset": 2379
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 90,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endColumn": 102,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 102,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 17,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\arrays.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2519,
+                        "endLine": 49,
+                        "endColumn": 17,
+                        "endOffset": 2826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endLine": 32,
+                    "endColumn": 17,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\arrays.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 807,
+                        "endLine": 43,
+                        "endColumn": 17,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 103,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 103,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 107,
+                    "endOffset": 2288
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1016,
+                        "endColumn": 107,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2293,
+                    "endColumn": 90,
+                    "endOffset": 2379
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 90,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endColumn": 102,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\values-pt-rPT\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 102,
+                        "endOffset": 1011
+                    }
+                }
+            }
+        ]
+    }
+]

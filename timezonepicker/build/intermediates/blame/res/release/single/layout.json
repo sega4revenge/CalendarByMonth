@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_item.xml",
+        "source": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_filter_item.xml",
+        "source": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\empty_time_zone_item.xml",
+        "source": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_filter_item.xml",
+        "source": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\timezonepickerview.xml",
+        "source": "D:\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\timezonepickerview.xml",
+        "source": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\empty_time_zone_item.xml",
+        "source": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\build\\intermediates\\res\\merged\\release\\layout\\time_zone_item.xml",
+        "source": "E:\\OneDrive\\Documents\\Android Studio Project\\MyApplication7\\timezonepicker\\src\\main\\res\\layout\\time_zone_item.xml"
+    }
+]

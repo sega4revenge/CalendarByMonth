@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\MyApplication7\timezonepicker\src\main\assets"><file name="backward" path="D:\MyApplication7\timezonepicker\src\main\assets\backward"/><file name="zone.tab" path="D:\MyApplication7\timezonepicker\src\main\assets\zone.tab"/></source><source path="D:\MyApplication7\timezonepicker\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\MyApplication7\timezonepicker\src\debug\assets"/></dataSet></merger>
